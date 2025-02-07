@@ -1,0 +1,104 @@
+<examples>
+<example>
+Fine morning calls for scramble eggs
+<output>
+The user is providing a new English sentence to translate.
+This means the state is Setup.
+I need to provide:
+
+Vocabulary Table
+Sentence Structure
+Clues
+Considerations
+Possible Next Steps
+The sentence is "Fine morning calls for scramble eggs".
+
+Let's break down the sentence to identify key vocabulary and grammatical structures.
+
+Vocabulary:
+
+Fine (adjective)
+Morning (noun)
+Calls for (verb phrase - implies necessity/desire)
+Scrambled eggs (noun)
+Sentence Structure:
+
+[Description] [Noun] [Verb phrase] [Noun]
+Now, let's find Japanese equivalents for these words and concepts, keeping in mind JLPT N5 level.
+
+Vocabulary (Japanese):
+
+Fine/Good: いい (ii) - already in previous vocab, good reuse.
+Morning: 朝 (asa)
+Calls for/Need: 必要 (hitsuyou) - already in previous vocab, can be used for necessity. Or could use 欲しい (hoshii) again for desire, but "calls for" feels more like necessity. Let's stick with 必要 (hitsuyou) and see how it fits.
+Scrambled eggs: スクランブルエッグ (sukuranburu eggu) - direct loan word is acceptable and easy for beginner. Or could be more descriptive like 炒り卵 (iri tamago) - fried egg pieces - but loan word is simpler for N5. Let's go with スクランブルエッグ.
+Sentence Structure (Japanese):
+Let's adapt the previous structure to fit this new sentence.
+
+Previous Structure: [Topic] は [Description] です, [Topic] は [Object] が [Adjective] です。
+Simplified Previous Structure (relevant part): [Location] は [Adjective] [Noun] です, [Topic] は [Object] が [Adjective] です.
+
+New sentence structure needs to be: [Description] [Noun] [Verb phrase] [Noun].
+
+Let's try to adapt the previous sentence structure ideas:
+
+[Adjective] [Noun] は [Good/Fine]. (Morning is fine/good). 朝はいいです。 (Asa wa ii desu) - "Morning is good". This captures "fine morning".
+[Topic] は [Object] が [Necessary]. (This/It is necessary for Scrambled eggs). これ は スクランブルエッグ が 必要です。 (Kore wa sukuranburu eggu ga hitsuyou desu) - "This is necessary for scrambled eggs". "This" can refer back to the fine morning feeling implicitly. Or more direct "Fine morning" -> "Scrambled eggs are necessary". 朝がいい は スクランブルエッグ が 必要です (Asa ga ii wa sukuranburu eggu ga hitsuyou desu) - bit clunky. Let's simplify. "Fine morning, scrambled eggs are necessary" - implied "calls for".
+Let's try linking the structures more conceptually:
+Structure 1:  [Time] は [Adjective] です.  (Time is adjective - Morning is fine)
+Structure 2: [Noun] は [Necessary] です. (Noun is necessary - Scrambled eggs are necessary).
+
+Using  Structure 1: 朝はいいです (Asa wa ii desu)
+Using Structure 2: スクランブルエッグは必要です (Sukuranburu eggu wa hitsuyou desu).
+
+Connect with comma: 朝はいいです、スクランブルエッグは必要です。 (Asa wa ii desu, sukuranburu eggu wa hitsuyou desu). - "Morning is good, scrambled eggs are necessary".  This is functional and simple.
+
+Let's refine the sentence structure in the output for clarity.  And create clues focused on connecting these parts and particles.
+
+Vocabulary Table:  Need to add 朝 (asa) and スクランブルエッグ (sukuranburu eggu). Keep いい (ii), 必要 (hitsuyou).
+
+Sentence Structure: Need to provide two simpler structures.
+
+[Time] は [Adjective] です。
+[Noun] は [Necessary] です。
+Clues: focus on particles, comma connection.
+Considerations:  Two clause sentence.
+Next Steps: Attempt, ask for particles, connection, etc.
+
+2.0 Flash Thinking Experimental. Lacks access to real-time info and some Gemini features.
+Agent Setup State
+Vocabulary Table:
+|Japanese         |Romaji	          |English
+|いい	          |ii	              |good / fine  
+|朝	|             |asa	              |morning
+|スクランブルエッグ	|sukuranburu eggu	|scrambled eggs
+|必要	          |hitsuyou	           |necessary
+|する	          |suru	               |to do
+|欲しい	          |hoshii	            |want
+
+Export to Sheets
+Sentence Structure:
+[Topic] は [Description] です, [Topic] は [Object] が [Adjective] です。
+
+Possible Sentence Structure:
+[Time] は [Adjective] です。 → (Morning is fine / It is a fine morning.)
+[Noun] は [Adjective] です。 → (Scrambled eggs are necessary / This calls for scrambled eggs.)
+Clues:
+朝 (asa) means morning.
+スクランブルエッグ (sukuranburu eggu) is how to say "scrambled eggs".
+Think about how to connect two sentences with a comma in Japanese.
+必要 (hitsuyou) expresses 'necessary'. You may also think about other words to express "calls for".
+Consider which particles you need to link the nouns to the descriptions.
+Considerations:
+This sentence has two clauses connected by a comma.
+The first part describes the quality of the morning.
+The second part expresses what is desired or needed given the first part.
+Possible Next Steps:
+Try to translate the sentence using the provided vocabulary, sentence structures and clues.
+Ask about how to say "fine morning" in Japanese.
+Ask about how to express "calls for" in Japanese.
+Ask about how to connect the two clauses with a comma.
+Ask about expressing necessity in Japanese.
+</output>
+</example>
+</examples>

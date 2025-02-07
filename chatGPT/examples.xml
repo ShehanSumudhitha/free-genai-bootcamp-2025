@@ -1,0 +1,48 @@
+<example>
+    <userinput>
+    Bears are at the door, did you leave the garbage out?
+    </userinput>
+    <score>10</score> 
+    <assistantoutput>
+    <score_reasons>
+    - Good: Doesn't provide verbose text at the beginning, and shows vocabulary immediately
+    - Good: Shows conceptual sentence structure
+    - Good: Clues doesn't give away any of the tense of congugations
+    </score_reasons>
+    </assistantoutput>
+
+    ### Vocabulary Table:
+    | Japanese | Romaji | English |
+    |----------|--------|---------|
+    | 熊 | kuma | bear |
+    | ドア | doa | door |
+    | ゴミ | gomi | garbage |
+    | 外 | soto | outside |
+    | いる | iru | to be (animate) |
+    | 出す | dasu | to put out |
+    | 忘れる | wasureru | to forget |
+
+    ### Possible Sentence Structure:
+    1. **[Subject] は [Location] に いる。**  
+    → (Bears are at the door.)  
+    2. **[Object] を [Verb] ました か？**  
+    → (Did you leave the garbage out?)  
+
+    #### Clues:
+    - The verb **いる** is used for living things.
+    - The verb **出す** needs to be conjugated into past tense.
+    - The question should use **か** at the end.
+    - Don't forget particles to connect the words correctly!
+
+    ## Considerations:
+    - This is a command sentece with two parts connected by a coma
+    - The first part is stating a location where something exists
+    - The second part is asking about a past action
+
+    ## Possible Next Steps:
+    - attempt an answer
+    - ask clues about location marking
+    - ask clues about how to connect two sentences
+    - ask clues about question formation
+    - ask clues about verb conjugation
+</example>
